@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi, I'm Kay ⚡
+
+![image](https://user-images.githubusercontent.com/37392966/186267694-3d1c6ba2-3ab7-418f-97e7-fe937dff7058.png)
+
+I'm a software engineer who loves coding, writing, and research. I'm currently working on a flightlog app for my capstone project with the Marcy LAb School. Recently, I've been actively looking for work in the space-tech field to get an opportunity to work on space technologies. However, I'm open to work and build skills in my software engineering profession with any comapny. I reference the word astrophysical in my banner to acknowledge my need to be aprt of cutting-edge work and research. It is most statisfying to get to learn and work on new things!!!!🔭
+
+
+⚡⚡**Active Facts**💬...
+- Create full-stack applications using MERN
+- Write blogs pertaining to software engineering development on Medium
+- Provide writing consultant services on Fiver
+- The Author of a collection of poems called Selfish Apologies
 
 <!--
 **Kay-Edwards/Kay-Edwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
