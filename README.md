@@ -7,9 +7,9 @@ I'm a software engineer who loves coding, writing, and research. I'm currently w
 
 ⚡⚡**Active Facts**💬...
 - Create full-stack applications using MERN
-- Write blogs pertaining to software engineering development on Medium
+- Write blogs pertaining to software engineering development on [Medium](https://medium.com/@kaylaedwards575)
 - Provide writing consultant services on [Fiver](https://www.fiverr.com/honeychuckles31?up_rollout=true)
-- The Author of a collection of poems called Selfish Apologies
+- The Author of a collection of poems called [Selfish Apologies](https://www.fiverr.com/honeychuckles31?up_rollout=true)
 
 <!--
 **Kay-Edwards/Kay-Edwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
