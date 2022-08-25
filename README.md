@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/37392966/186267694-3d1c6ba2-3ab7-418f-97e7-fe937dff7058.png)
 
-I'm a software engineer who loves coding, writing, and research. I'm currently working on a flightlog app for my capstone project with the Marcy LAb School. Recently, I've been actively looking for work in the space-tech field to get an opportunity to work on space technologies. However, I'm open to work and build skills in my software engineering profession with any comapny. I reference the word astrophysical in my banner to acknowledge my need to be aprt of cutting-edge work and research. It is most statisfying to get to learn and work on new things!!!!🔭
+I'm a software engineer who loves coding, writing, and research. I'm currently working on a flightlog app for my capstone project with the Marcy Lab School. Recently, I've been actively looking for work in the space-tech field to get an opportunity to work on space technologies. However, I'm open to building my software engineering skills period. I reference the word astrophysical in my banner to acknowledge my need to be apart of cutting-edge work and research. It is most statisfying to get to learn and work on new things!!!!🔭
 
 
 ⚡⚡**Active Facts**💬...
