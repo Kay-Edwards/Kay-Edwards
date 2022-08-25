@@ -1,4 +1,4 @@
-# Hi, I'm Kay ⚡
+# Hi, I'm Kay ⚡👩🏾‍💻
 
 ![image](https://user-images.githubusercontent.com/37392966/186267694-3d1c6ba2-3ab7-418f-97e7-fe937dff7058.png)
 
